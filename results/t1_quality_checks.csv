@@ -1,0 +1,5 @@
+year,hh_quarter_rows,matched_to_roster,with_income_rows,with_spending_rows,with_any_borrowing_row,children_known
+2021,48000,1.0,0.9758,0.983,0.2748,0.0
+2022,48000,1.0,0.9799,0.986,0.2926,1.0
+2023,48000,1.0,0.9801,0.9862,0.304,1.0
+2024,48000,1.0,0.9785,0.9845,0.3228,1.0
